@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An advertisement from the Company of Tinn-plate-workers of London; concerning the erecting of lamp lights.</title>
+            <author>Company of Tin Plate Workers (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75910</idno>
+            <idno type="STC">Wing A612A</idno>
+            <idno type="STC">ESTC R200466</idno>
+            <idno type="EEBO-CITATION">45789130</idno>
+            <idno type="OCLC">ocm 45789130</idno>
+            <idno type="VID">172444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75910)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172444)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2630:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An advertisement from the Company of Tinn-plate-workers of London; concerning the erecting of lamp lights.</title>
+                  <author>Company of Tin Plate Workers (London, England)</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lampposts --  England --  Early works to 1800.</term>
+               <term>Tinsmiths --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172444:1" rendition="simple:additions"/>
+            <head>AN ADVERTISEMENT FROM THE COMPANY OF Tinn-Plate-Workers OF <hi>LONDON;</hi> Concerning the Erecting of <hi>Lamp Lights.</hi>
+            </head>
+            <p>WHEREAS One <hi>Edward Windus</hi> in the Thirty Sixth Year of King <hi>Charles</hi> the Second, (upon Suggeſtion that he had obtained a Diſ<g ref="char:EOLhyphen"/>covery of a New Experiment, for the great and durab e Increaſe of Light by extraordinary Glaſſes and Lamps,) whereupon his then Majeſty did grant unto him the ſaid <hi>Edward Windus,</hi> a Pattent for the better improvement of Ship Lanthorns, Light-houſes, and diſperſing of Light in Mines, and ſuch like places. But upon condition, that if it ſhould prove grievous to any his Loving Subjects, the Pattent to be void, as by the Pattent appears.</p>
+            <p>That ſince the granting of this Pattent, ſeveral Gentlemen and others have obtained a Share or Right in the ſame of the Original Pattentee, and under Colour and Pretence of that, do now preſume to ſet up and erect thoſe Lamp-Lights within this City and Suburbs, and the Streets, and Lanes thereof; not<g ref="char:EOLhyphen"/>withſtanding there is no grant in the Pattent for ſo doing; And under the Umbrage of it, do take all the indirect means that Malice can invent, to pre<g ref="char:EOLhyphen"/>vent thoſe from erecting thoſe Lights, who indeed have the only Right to do it, (namely, the Company of Tinn-plate-workers of <hi>London.</hi>)</p>
+            <p>That accordingly ſeveral Falſities and Threats are ſpread abroad, on purpoſe to amuſe and frighten the Inhabitants: The Company of Tinn-plate-workers of <hi>London,</hi> therefore thought it adviſable to make publick to the World the indirect ways that is taken by theſe Pattentees, to interrupt the ſaid Compa<g ref="char:EOLhyphen"/>ny in the free Exerciſe of their Trade; And if ſuch Pretenſions as theſe ſhould meet with incouragement, the trading Part of the Nation muſt of neceſſity be undone; Farewel all Communities, and Bodies Corporate. We that are the Company do believe, and hope, that the thinking Part of Mankind will conſider it; and eſpecially in this Caſe of the Tinn-plate-workers: For by the ſame Rule, all handicraft Trades may fall under the ſame Predictment, and conſequently they and their Families brought to Ruine.</p>
+            <p>But to ſtate nothing but Fact; in ſhort, take the Cauſe in the late Act of Parliament: Intituled, <hi>An Act for paving and cleanſing the Streets in the City of <hi>London</hi> and <hi>Weſtminſter,</hi> and Suburbs and Liberties thereof paſſed in, <hi>&amp;c.</hi> 1690. (Verbatim)</hi> And be it further enacted by the Authority aforeſaid; <hi>That
+<pb n="2" facs="tcp:172444:2"/> every Houſholder within any of the Pariſhes, Places or Precincts in the Counties of <hi>Middleſex</hi> and <hi>Surrey,</hi> and City and Liberties of <hi>Weſt<g ref="char:EOLunhyphen"/>minſter,</hi> compriſed within the weekly Bills of Mortality, whoſe Houſe adjoins unto, or is near the Street, from <hi>Michaelmas</hi> unto our <hi>Lady<g ref="char:EOLhyphen"/>day</hi> yearly; ſhall every Night ſet or hang out Candles, or Light in Lanthorns, on the outſide of the Houſe next the Street, to enlighten the ſame for the Conveniency of Paſſengers, from time to time a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it ſhall grow dark, until Twelve of the Clock at Night, upon pain to forfeit the Summ of two Shillings for exery Default; exceptin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch Perſon or Perſons, as ſhall agree to make uſe of Lamps of any ſort, to be placed at ſuch Diſtances in the Street, as ſhall be appro<g ref="char:EOLhyphen"/>ved of by two or more Iuſtices of the Peace.</hi>
+            </p>
+            <p>By the Clauſe in the Act you may perceive, that every Inhabitant is injoin<g ref="char:EOLhyphen"/>ed to hang out Candles or Lights in Lanthorns; the Direction in the Act is according to the Antient way of Lighting the Streets; ſo 'tis plain, the Tinn-plate-workers do not only looſe a conſiderable Branch of their Trade, which is making and vending Tin-Lanthorns: But if the aforeſaid Pattentees might Rule: Muſt the Company be hindred from Erecting theſe Lamp-Lights, which the ſaid Company have made above Twenty Years ago, and is as much a Part of their Trade, as making of Tinn-Lanthorns; and 'twould be very hard for the Company to looſe the Advantage of making of Lamps, ſince they looſe ſuch a Branch of their Trade, as aforeſaid?</p>
+            <p>Now by this Act of Parliament, 'tis indifferently left to every Man's li<g ref="char:EOLhyphen"/>berty, to make uſe of what Lamps he thinks fit, or to uſe none at all: So far it is from Compulſion in any kind: And 'tis plain, the Parliament at the time of making this Act, had a regard to the Company, and what was done by them was intended in favour and eaſe of the Subject, and never intended t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> incourage Monopolies of any kind.</p>
+            <p>A great deal more might be ſaid, but we the Company aforeſaid, do th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> only to ſatisfie the World of the Juſtice of our Caſe, and to ſhew that <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Proceedings of thoſe that call themſelves Pattentees to be unjuſt. A<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thus, their going from place to place, and forewarning the Inhabitants fr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> contracting with the ſaid Company, for the ſaid Lamp-Lights; threatni<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them if they do, they will make them pay over again; and where the Co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pany have already contracted, do go and Actually erect Poſts, and other C<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>veniencies for ſetting up their Lights, amongſt thoſe very Inhabitants, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whom the ſaid Company have already contracted, and did light the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Year.</p>
+            <p>
+               <hi>This being ſome Part of the Caſe;</hi>
+               <lb/> THE ſaid Company intending to maintain their Rights and Priviledg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which by Law does of Right belong to them, do reſolve to go on w<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> their Undertaking; and do hereby aſſure all ſuch Perſon or Perſons what<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ever, who have already contracted with the ſaid Company, or whoſoe<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſhall from time to time hereafter contract with them for the Uſe of the ſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Lamp-Lights, that is, for ſuch as are erected, or to be erected; That we <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid Company aforeſaid, ſhall and will ſave harmleſs and indemnified, all ſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Perſons ſo contracting with us as aforeſaid, of and from all Dammages wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> has or ſhall accrew from the Pattentees, and of and from all Forfeitu<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for not hanging out a Candle and Lanthorn purſuant to the Direction of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> afore recited Act; And what Threatnings ſoever has been made by the afo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſaid Pattentees, and their Agents is groundleſs, and what they cannot mainta<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and done only on purpoſe to amuſe and deceive you.</p>
+            <p>☞ And all Perſons that deſire to be furniſhed with our Lamps, or to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> further ſatisfied in this Affair, if they pleaſe to come to our Office in <hi>Critc<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Friars,</hi> within <hi>Algate,</hi> in the New Buildings; where we meet every <hi>Tueſ<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> and <hi>Friday</hi> at Six a Clock in the Evening, may be furniſhed with the ſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Lights, and fully ſatisfied about the whole matter, we being reſolved to ſt<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the Teſt with all Pretenders: And not ſo eaſily looſe ſo conſiderable a Bran<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of our Trade.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
